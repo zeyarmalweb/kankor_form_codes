@@ -1,13 +1,11 @@
 {
   "status": true,
-  "newYearDate": "1406",
-  "oldYearDate": "1405",
-  "forms": {
-    "NewYear": {
-      "formCode": 117
-    }
-    "oldYear": {
-      "formCode": 18
-    },
+  "latestYear": {
+    "year": "1406",
+    "formCode": 117
+  },
+  "previousYear": {
+    "year": "1405",
+    "formCode": 18
   }
 }
