@@ -2,18 +2,18 @@
   "status": true,
   "latestYear": {
     "year": "1406",
-    "formURL": "",
+    "formURL": "https://nexaresults.org",
     "status": true
   },
   "previousYear": {
     "year": "1405",
     "formURL": "https://nexaresults.org",
-    "status": true
+    "status": false
     
   },
   "previousYearMadaris": {
     "year": "1404",
     "formURL": "https://nexa.gov.af/fa/result/18/search",
-    "status": true
+    "status": false
   }
 }
