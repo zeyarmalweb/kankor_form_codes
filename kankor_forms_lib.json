@@ -2,40 +2,14 @@
   "status": true,
   "forms": [
     {
-      "form_id": "kankor_1405_01",
-      "form_title_eng": "Kankor Form 1405 - General",
-      "form_title_pa": "د کنکور فورم ۱۴۰۵ - عمومي",
-      "form_title_fa": "فرم کنکور ۱۴۰۵ - عمومی",
-      "form_year": "1405-01",
-      "form_path": "https://dn711009.ca.archive.org/0/items/tehd_namh_form_year1405/tehd_namh_form_year1405.pdf",
+      "form_id": "kankor_1405_001",
+      "form_title_eng": "Kankor Form • First Round • First Day",
+      "form_title_pa": "د کانکور فورم • لومړۍ دوره • لومړۍ ورځ",
+      "form_title_fa": "فورم کانکور •  دور اول • روز اول",
+      "form_year": "1405 🏆 001",
+      "form_path": "https://ia600607.us.archive.org/13/items/kankor-form-first-exam-of-1405/kankor_form_first_exam%20of%201405.pdf",
       "status": true
-    },
-    {
-      "form_id": "kankor_1405_02",
-      "form_title_eng": "Kankor Form 1405 - Medical",
-      "form_title_pa": "د کنکور فورم ۱۴۰۵ - طبابت",
-      "form_title_fa": "فرم کنکور ۱۴۰۵ - طبابت",
-      "form_year": "1405-02",
-      "form_path": "https://dn711009.ca.archive.org/0/items/tehd_namh_form_year1405/tehd_namh_form_year1405.pdf",
-      "status": true
-    },
-    {
-      "form_id": "kankor_1404_01",
-      "form_title_eng": "Kankor Form 1404 - General",
-      "form_title_pa": "د کنکور فورم ۱۴۰۴ - عمومي",
-      "form_title_fa": "فرم کنکور ۱۴۰۴ - عمومی",
-      "form_year": "1404-01",
-      "form_path": "https://dn711009.ca.archive.org/0/items/tehd_namh_form_year1405/tehd_namh_form_year1405.pdf",
-      "status": true
-    },
-    {
-      "form_id": "kankor_1404_02",
-      "form_title_eng": "Kankor Form 1404 - Medical",
-      "form_title_pa": "د کنکور فورم ۱۴۰۴ - طبابت",
-      "form_title_fa": "فرم کنکور ۱۴۰۴ - طبابت",
-      "form_year": "1404-02",
-      "form_path": "https://dn711009.ca.archive.org/0/items/tehd_namh_form_year1405/tehd_namh_form_year1405.pdf",
-      "status": false
     }
+   
   ]
 }
