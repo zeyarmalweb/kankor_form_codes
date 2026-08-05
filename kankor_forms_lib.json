@@ -42,8 +42,35 @@
       "form_title_en": "General Chemistry",
       "form_title_pa": "عمومي کیمیا",
       "form_title_fa": "کیمیا عمومی",
-      "form_year": "Chemistry 🏆",
+      "form_year": "Sciences 🏆",
       "form_path": "https://ia600708.us.archive.org/28/items/general-chemistry_202608/General%20Chemistry.pdf",
+      "status": true
+    },
+    {
+      "form_id": "General_Chemistry_001",
+      "form_title_en": "Organic and Inorganic Chemistry Questions Bank",
+      "form_title_pa": "د عضوي او غیر عضوي کیمیا د پوښتنو بانک",
+      "form_title_fa": "بانک سوالات کیمیا عضوی و غیر عضوی",
+      "form_year": "Sciences 🏆",
+      "form_path": "https://ia601400.us.archive.org/22/items/organic-and-inorganic-chemistry-questions-bank/Organic%20and%20Inorganic%20Chemistry%20Questions%20Bank.pdf",
+      "status": true
+    },
+    {
+      "form_id": "Religious_001",
+      "form_title_en": "Religious Questions Bank",
+      "form_title_pa": "د دیني پوښتنو بانک",
+      "form_title_fa": "بانک سوالات دیني",
+      "form_year": "Religious 🏆",
+      "form_path": "https://ia601609.us.archive.org/5/items/religious_202608/Religious.pdf",
+      "status": true
+    },
+    {
+      "form_id": "Mathematics_001",
+      "form_title_en": "Kankor Practice Tests",
+      "form_title_pa": "د کانکور تمریني ازموینې",
+      "form_title_fa": "تطبیقات کانکور",
+      "form_year": "Mathematics 🏆",
+      "form_path": "https://archive.org/details/kankor-practice-tests",
       "status": true
     }
    
